@@ -1,0 +1,9 @@
+export const LOADING = "LOADING";
+
+export const ACCOUNT_SIGNUP = "ACCOUNT_SIGNUP";
+export const ACCOUNT_SIGNIN = "ACCOUNT_SIGNIN";
+export const ACCOUNT_UPDATE = "ACCOUNT_UPDATE";
+
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_MONITOR_URLS = "GET_MONITOR_URLS";
+export const ADD_MONITOR_URL = "ADD_MONITOR_URL";
